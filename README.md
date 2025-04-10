@@ -78,8 +78,9 @@ Me chamo Miguel Lucas Gonçalves Silva, tenho 18 anos e sou natural do Prata MG.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 20px;"
     src="https://github-readme-stats.vercel.app/api?username=Miguel-G-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    marg
   />
 
 <img 
